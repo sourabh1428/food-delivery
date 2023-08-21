@@ -1,0 +1,21 @@
+<svg width="132" height="132" viewBox="0 0 132 132" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="132" height="132" fill="#1E1E1E"/>
+<g id="Restaurant Landing Page" clip-path="url(#clip0_0_1)">
+<rect width="1728" height="5850" transform="translate(-798 -3034)" fill="#F6F6F6"/>
+<g id="Work Section">
+<g id="Process">
+<g id="Frame 2">
+<rect x="-107.5" y="-24" width="347" height="434" rx="20" fill="white"/>
+<g id="mdi:cursor-pointer">
+<path id="Vector" d="M75.5521 56.1203L78.9908 56.8299L101.752 68.1833C105.573 69.4387 108.084 73.2049 107.756 77.2441V78.6633L102.844 112.068C102.516 114.415 101.479 116.599 99.5687 118.127C97.8767 119.764 95.6387 120.583 93.2917 120.583H55.7383C53.0637 120.583 50.6075 119.601 48.8063 117.69L16.1108 85.1041L21.0233 79.6458C22.3333 78.2812 24.4075 77.517 26.3725 77.6262H27.9554L49.625 82.3749V25.0624C49.625 22.1671 50.7751 19.3904 52.8224 17.3432C54.8697 15.2959 57.6464 14.1458 60.5417 14.1458C63.4369 14.1458 66.2136 15.2959 68.2609 17.3432C70.3082 19.3904 71.4583 22.1671 71.4583 25.0624V56.1203H75.5521Z" fill="#FE9E0D"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_0_1">
+<rect width="1728" height="5850" fill="white" transform="translate(-798 -3034)"/>
+</clipPath>
+</defs>
+</svg>
